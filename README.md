@@ -58,8 +58,6 @@ Create a simple python based application that can take in a dataset and produce 
 
 There is no restriction on the type of application you choose to create. A few useful links are attached in the [appendix](#appendix) section.
 
-**kōun o inorimasu (I wish you good luck)**
-
 ### Appendix
 #### Stat
 - [Smoothing](https://en.wikipedia.org/wiki/Smoothing) In statistics and image processing, to **smooth** a data set is to create an approximating function that attempts to capture important patterns in the data.
