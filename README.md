@@ -1,12 +1,7 @@
-## Hone Spectral Processing Challenge (HSP C)
+## Spectral Processing Challenge (HSP C)
 
 ### Intro
 
-[Hone's](https://honeag.com/about-hone/) product offering is dependent on the continuous integration of new data to deploy predictive models, generate actionable insights to our customers in Australia and Internationally. Our fundamental product<sup>[[1](https://honeag.com/hone-lab-red/),[2](https://honeag.com/hone-carbon/)]</sup> offering is a hardware-agnostic software platform that enables the rapid development and deployment of predictive models. Your role within this team will be to expedite and scale our means of developing and deploying our models and to tackle complex data logistics problems.
-
-### Challenge
-
-Thank you for agreeing to participate in this component of the Hone Carbon recruitment process!
 
 This is a two part scenario and is designed to test your ability to transform and manipulate data, apply statistical methods to filter it and test basic understanding of data presentation and software design.
 
@@ -67,20 +62,6 @@ Imagine you are presenting the findings from above scenario to your colleagues w
 Create a simple python based application that can take in a dataset and produce visualizations from each step you perform in the above scenario to show how each decision you made influenced the preprocessing and how outlier detection algorithms removed outliers along with ability to make a prediction on any trained model (remember, the exact same preprocessing needs to be performed on any prediction target).
 
 There is no restriction on the type of application you choose to create. A few useful links are attached in the [appendix](#appendix) section.
-
-#### Bonus Scenario
-This is not a mandatory scenario but you can choose to attempt this section and show off your impressive modelling skills and awe us.
-
-1. Explore various normalization techniques of the dependent variables themselves and the effect of that on the predictive capability. If using such techniques, how do you account for or include these in a productionized model?
-2. Develop architecture to productionize the entire training and prediction flow. Make reasonable assumptions where required but be sure to account for most real world cases.
-
-### Submission
-
-You can choose to fork this repository or create your own repository to show your work.
-
-We are most interested in your thought process behind all the decisions made, so leave as many comments as possible either as inline comments or as a separate report. For any application / notebook created, provide clear instructions / examples that can help us run your application at our end in a markdown.
-
-Once you have completed all the given tasks, shoot an email to [sri@honeag.com](mailto:sri@honeag.com) stating that you have finished your tasks and that the repository is ready for evaluation.
 
 **kōun o inorimasu (I wish you good luck)**
 
