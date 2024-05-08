@@ -2,11 +2,6 @@
 
 ### Intro
 
-
-This is a two part scenario and is designed to test your ability to transform and manipulate data, apply statistical methods to filter it and test basic understanding of data presentation and software design.
-
-Both tasks are expected to be solved using Python. There is no restriction on the packages that can be used. Useful links are provided in the [appendix](#appendix) section.
-
 #### Scenario 1
 
 You are provided with an excel workbook which contains 2 sheets. Each sheet acts as a standalone dataset. You can find them in the [data](data/) folder and are required to use both of these datasets in conjunction to solve the presented challenges.
