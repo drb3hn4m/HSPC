@@ -3,8 +3,7 @@
 ### Intro
 
 #### Scenario 1
-
-You are provided with an excel workbook which contains 2 sheets. Each sheet acts as a standalone dataset. You can find them in the [data](data/) folder and are required to use both of these datasets in conjunction to solve the presented challenges.
+There is an excel workbook which contains 2 sheets. Each sheet acts as a standalone dataset. You can find them in the [data](data/) folder and are required to use both of these datasets.
 
 Each dataset contains **161** columns, including:
 
@@ -16,7 +15,7 @@ Each dataset contains **161** columns, including:
 
 Each row can be of two types: *Sample Scan* or *Background Scan* and can be identified using the *Background* column. Each sample has a repeat scan of 10 counts and can be identified using *ScanIndex*.
 
-You have been requested by a stakeholder that the data associated with the dependent variable and spectral data are transformed to be suitable inputs for subsequent modeling of the dependent variables using the spectral data. You are expected to work with data from both datasets, between the wavelength range of **1400nm ~ 2400nm** and a granularity of **1nm**.
+The data associated with the dependent variable and spectral data are required to be transformed to be suitable inputs for subsequent modeling of the dependent variables using the spectral data. You are expected to work with data from both datasets, between the wavelength range of **1400nm ~ 2400nm** and a granularity of **1nm**.
 
 - Perform general EDA on the given datasets and present your findings.
 - The following is to be performed in a sequence to convert raw intensities to absorbance:
@@ -51,12 +50,6 @@ You have been requested by a stakeholder that the data associated with the depen
 
 You can choose to present your work as standalone scripts or as a jupyter notebook or any other pertinent technology.
 
-#### Scenario 2
-Imagine you are presenting the findings from above scenario to your colleagues with limited understanding of statistics or data science. It falls on you to present them in a way laymen can understand.
-
-Create a simple python based application that can take in a dataset and produce visualizations from each step you perform in the above scenario to show how each decision you made influenced the preprocessing and how outlier detection algorithms removed outliers along with ability to make a prediction on any trained model (remember, the exact same preprocessing needs to be performed on any prediction target).
-
-There is no restriction on the type of application you choose to create. A few useful links are attached in the [appendix](#appendix) section.
 
 ### Appendix
 #### Stat
