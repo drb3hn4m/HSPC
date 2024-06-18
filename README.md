@@ -46,9 +46,6 @@ The data associated with the dependent variable and spectral data are required t
 - Detect spectral outliers and report their Sample ID's and ScanIndex. There is no restriction on the type of outlier analysis to perform. The preformance would be assesed based on the general classification metrics.
   5. Use any robust spectral outlier removal technique to identify and remove outliers (also report the outliers in a separate file)
   6. Build a predictive model (Eg. linear regression, partial least square, random forest, Neural Networks etc.) for each of the dependent variables, presenting suitable metrics for assessing the performance of the predictive model. Additionally, perform comparative analysis with a baseline predictor (be sure to implement hyperparam tuning strategies and reasoning).
-> P.S. You can choose to add any other preprocessing steps as you see fit with an explanation or reasoning behind those additions.
-
-You can choose to present your work as standalone scripts or as a jupyter notebook or any other pertinent technology.
 
 
 ### Appendix
